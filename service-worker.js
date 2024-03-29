@@ -1,6 +1,5 @@
-const cacheName = 'tempo-tap-v1';
+const cacheName = 'tempo-tap-v2';
 const filesToCache = [
-  '/',
   '/index.html',
   '/manifest.json',
   '/icons/icon-192.png',
